@@ -6,7 +6,7 @@
 - 📝 **To‑Do List App** — Task manager UI built with Shadcn, Tailwind, Next.js
 
 Currently working on a project:
-- 💉 **Tattoo Studio Website** — Booking site using Next.js, MongoDB, TailwindCSS 
+Includes: Booking site using Next.js, MongoDB, TailwindCSS 
 ---
 
 ## 🧰 Tech Stack
